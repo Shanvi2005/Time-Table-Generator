@@ -119,8 +119,8 @@ python main.py
 
 ## 🤝 Contributors
 
-- 👩‍💻 Palak Khanna  
-- 👨‍💻 [Your Name Here]
+- 👩‍💻 Shanvi
+- 👨‍💻 Palak Khanna
 
 ---
 
